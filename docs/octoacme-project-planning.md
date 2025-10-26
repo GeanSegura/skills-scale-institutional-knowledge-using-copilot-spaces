@@ -19,7 +19,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Backlog Item Template
 - Title:
 - Description:
-- Acceptance criteria:
+- Acceptance criteria: (see [Acceptance Criteria Template](templates/acceptance-criteria-template.md))
 - Priority:
 - Estimate:
 - Owner:
@@ -38,6 +38,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
+- [ ] Acceptance criteria documented using [template](templates/acceptance-criteria-template.md)
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
